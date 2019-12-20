@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'helvetica';
+    src: local('fonts/9202.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: helvetica, Arial, sans-serif ;
+    /*  background: #e3e1ee;*/
+    margin-left: 0px;
+    margin: auto;
+    padding: 0;
+}
+table{
+    margin: 0 15px 0 0;
+    padding: 0 0 0 0;
+}
